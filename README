@@ -1,0 +1,5 @@
+How to install ?
+
+$ chmod 0777 -R media/
+$ chmod 0777 -R statics/
+$ cp settings_local_tpl.py settings_local.py
